@@ -37,6 +37,14 @@ Live per-device activity is Linux-only — [why →](#activity-metrics-linux).
 brew install usbtree
 ```
 
+**X-CMD** (Linux · macOS)
+
+Alternatively, install it with [x-cmd](https://www.x-cmd.com/mod/eget), which downloads the pre-built binary from GitHub Releases:
+
+```sh
+x eget use gnomeria/usbtree
+```
+
 **Linux / macOS** (shell installer)
 
 ```sh
